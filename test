@@ -1,1 +1,1 @@
-alert("XSSUCKE_ME");
+alert("hi");
