@@ -1,1 +1,1 @@
-alert("XSS");
+alert("XSSUCKE_ME");
